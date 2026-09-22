@@ -1,0 +1,25 @@
+# Input/output videos
+*.mp4
+*.avi
+*.mov
+
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Output folders
+runs/
+outputs/
